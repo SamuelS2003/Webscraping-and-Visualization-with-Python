@@ -1,4 +1,5 @@
 **Web Scraping and Visualization with Python**
+
 This repository demonstrates the process of web scraping data from websites and creating insightful visualizations using Python. It provides a step-by-step guide and reusable code for extracting, cleaning, and analyzing web data.
 
 Features
